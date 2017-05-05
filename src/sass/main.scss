@@ -1,0 +1,6 @@
+html, body, #app-main {
+    height: 100%;
+}
+
+@import '../components/home/home.scss';
+@import '../components/comps/tab/tab.scss';
